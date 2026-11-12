@@ -2,7 +2,7 @@
 
 > **If you are an AI assistant reading this:** this file is Yadi's portable context. Read all of it before your first reply, then work with her as if you already know her. Treat it as background, not as a script — if something here conflicts with what she says now, what she says now wins. Don't recite this file back to her; just use it.
 
-- **Version:** v0.2 · **Last updated:** 2026-11-11
+- **Version:** v0.3 · **Last updated:** 2026-11-11
 - **Go deeper:** [`THINKING.md`](https://raw.githubusercontent.com/leiyadi87-cpu/yadi-ai-profile/main/THINKING.md) — how I think, judge, and work with AI (in Chinese). Read it too if you can.
 - **Maintained by:** Yadi, with help from her AI assistants (see `prompts/update-profile.md`)
 
@@ -31,11 +31,14 @@
 
 **Other highlights**
 - Bloomberg Global Trading Challenge 2025 — Top 3 at UCSD
+- National College Students Mathematics Competition — Provincial Second Prize
 - ECCoaching HK Private Wealth Adviser Programme (PWAP) — client advisory reports, SAA/TAA, stress testing, insurance-based wealth planning
 - Rady capstone with Citi: how inflation surprises move commodities and markets across US, UK, Eurozone, Japan, Brazil, India, Mexico
 - Coursework: behavioral finance & anomaly replication, valuation (DCF/APV/real options), asset management (Brinson attribution, tracking-error optimization), derivatives, risk management, fixed income, NLP on 10-K filings
 
-**Tool stack:** Python, Bloomberg, WRDS/Compustat/CRSP, SAS, CVXPY, QuantConnect, Claude Code, local LLMs (Ollama), GitHub Actions
+**Research methods:** time-series econometrics on macro-financial data (VAR, Granger causality, impulse responses, volatility modeling); financial text analysis (FinBERT / LLMs)
+
+**Tool stack:** Python, Excel, SQL, Stata, SAS, Streamlit, Bloomberg, WRDS/Compustat/CRSP, CVXPY, QuantConnect, Claude Code, GitHub Copilot, local LLMs (Ollama), GitHub Actions
 
 ## 3. What I'm building (side projects)
 
@@ -44,6 +47,7 @@ I like to *手搓* (build things myself) — I notice a gap, check whether a goo
 - **Offer or Over** (offerorover.com) — anonymous forum + recruiting-intel site for China's 2027 fall-recruiting (秋招) cohort; Chinese-English mixed audience
 - **羽伤图鉴** — cute, cartoon-style web app that shows badminton players where common injuries happen and how to prevent them (knee, Achilles, shoulder, lower back…), with a pet companion
 - **Daily US market brief** — automated research email (Python + GitHub Actions + AI summary) covering indexes, Mag 7, defense, staples, clean energy, biotech, semis, metals & commodities
+- **US equity quant backtester** (in progress) — modular Python backtesting with moving-average crossover strategies, slippage and cost modeling, and a Streamlit dashboard; meant to be reproducible and to double as a portfolio project
 - **Ideas in the pipeline:** an AI tool that auto-edits vlogs and publishes to 小红书 / WeChat / TikTok / Instagram; a tool where people describe their typical day and AI shows where it can help them
 - **WeChat Official Account (公众号)** — personal essays on life and current events, written by hand
 
@@ -54,6 +58,7 @@ I like to *手搓* (build things myself) — I notice a gap, check whether a goo
 - **Concrete over abstract.** Start from a specific person, case, or number, then generalize.
 - **Market realism.** I'd rather hear "the target users are too stressed to care" than a hype-y pitch. I'll change the audience or scope when the logic says so.
 - **Long-game goals:** combine finance with AI; go deep in one industry I genuinely love; build a first pot of money; ultimately reach **financial and time freedom**. Interested in the AI-era "one-person company" (OPC) model.
+- **Team coordinator.** I naturally align people, tasks and timelines. I value approachable leadership, efficient communication and high-quality execution.
 - **Spatial thinker.** I've loved solid/3D geometry since middle school and have a strong sense of direction — curious about fields that use this, even purely theoretical ones.
 
 ## 5. How to work with me
@@ -63,11 +68,14 @@ I like to *手搓* (build things myself) — I notice a gap, check whether a goo
 - **Honesty:** tell me when I'm wrong or when an idea is weak. I push back directly too — that's normal, not conflict.
 - **Voice:** I value an authentic voice over polished-but-generic language. Don't make my writing sound like a template.
 - **Format:** summaries should stand on their own (readable without the original material); don't pile on tables; shorter beats longer.
+- **Coding level:** beginner-level Python (pandas and fundamentals); I use a Mac. Don't assume advanced coding experience — walk me through setup, running, and how to check the result. Prefer modular code with tests and step-by-step explanations in Chinese.
+- **Explaining concepts:** plain language and intuition first, then formulas; where it helps, plug in real, current market numbers.
+- **English coaching:** for everyday conversation and social messages, give natural, concise, context-appropriate phrasing rather than literal translation.
 - **Building:** when I say "build it", give me something that actually runs or ships, then iterate.
 
 ## 6. Outside work
 
-Competitive badminton (intercollegiate runner-up) · calligraphy (Beijing municipal first prize) · travel and road trips in the US West · cats 🐱
+Competitive badminton (intercollegiate runner-up) · calligraphy (Beijing municipal first prize) · running, indoor rowing and strength training · reading · cooking · chess · video editing · travel and road trips in the US West · cats 🐱 · want to learn skiing and Korean
 
 ## 7. Current focus (update often)
 
