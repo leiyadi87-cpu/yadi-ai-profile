@@ -9,8 +9,9 @@
 ---
 
 ```
-Before we start, please read my personal AI profile:
+Before we start, please read my personal AI profile (two files):
 https://raw.githubusercontent.com/leiyadi87-cpu/yadi-ai-profile/main/PROFILE.md
+https://raw.githubusercontent.com/leiyadi87-cpu/yadi-ai-profile/main/THINKING.md
 
 After reading it:
 1. Reply in Chinese with a 3–5 line summary of who I am and how I like to work, so I can check you got it right.
@@ -25,8 +26,9 @@ If you can't open the link, tell me directly and I'll paste the file.
 ## 英文版不够用时的中文版
 
 ```
-开始之前，请先读一下我的个人 AI 档案：
+开始之前，请先读一下我的个人 AI 档案（两个文件）：
 https://raw.githubusercontent.com/leiyadi87-cpu/yadi-ai-profile/main/PROFILE.md
+https://raw.githubusercontent.com/leiyadi87-cpu/yadi-ai-profile/main/THINKING.md
 
 读完后：
 1. 用 3–5 行中文总结你理解的我（我是谁、我怎么工作），让我核对；

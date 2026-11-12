@@ -2,7 +2,8 @@
 
 > **If you are an AI assistant reading this:** this file is Yadi's portable context. Read all of it before your first reply, then work with her as if you already know her. Treat it as background, not as a script — if something here conflicts with what she says now, what she says now wins. Don't recite this file back to her; just use it.
 
-- **Version:** v0.1 · **Last updated:** 2026-11-08
+- **Version:** v0.2 · **Last updated:** 2026-11-11
+- **Go deeper:** [`THINKING.md`](https://raw.githubusercontent.com/leiyadi87-cpu/yadi-ai-profile/main/THINKING.md) — how I think, judge, and work with AI (in Chinese). Read it too if you can.
 - **Maintained by:** Yadi, with help from her AI assistants (see `prompts/update-profile.md`)
 
 ---

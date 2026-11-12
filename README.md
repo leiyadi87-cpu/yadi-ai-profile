@@ -14,6 +14,7 @@ Every AI app keeps its own memory, locked inside that app. Switch tools and you 
 | Path | What it is |
 |---|---|
 | `PROFILE.md` | The profile itself — identity, career, projects, how I think, how to work with me, current focus |
+| `THINKING.md` | The deep version — how I think, my decision rules, my workflow with AI (Chinese) |
 | `prompts/load-into-new-ai.md` | First message to send a new AI (Grok, ChatGPT, Gemini…) |
 | `prompts/export-from-any-ai.md` | Pull what another AI already knows about me |
 | `prompts/update-profile.md` | Keep the profile fresh after conversations |
