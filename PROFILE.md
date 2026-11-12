@@ -31,14 +31,13 @@
 
 **Other highlights**
 - Bloomberg Global Trading Challenge 2025 — Top 3 at UCSD
-- National College Students Mathematics Competition — Provincial Second Prize
 - ECCoaching HK Private Wealth Adviser Programme (PWAP) — client advisory reports, SAA/TAA, stress testing, insurance-based wealth planning
 - Rady capstone with Citi: how inflation surprises move commodities and markets across US, UK, Eurozone, Japan, Brazil, India, Mexico
 - Coursework: behavioral finance & anomaly replication, valuation (DCF/APV/real options), asset management (Brinson attribution, tracking-error optimization), derivatives, risk management, fixed income, NLP on 10-K filings
 
-**Research methods:** time-series econometrics on macro-financial data (VAR, Granger causality, impulse responses, volatility modeling); financial text analysis (FinBERT / LLMs)
+**Research methods:** time-series econometrics on macro-financial data (VAR, Granger causality, impulse responses, volatility modeling)
 
-**Tool stack:** Python, Excel, SQL, Stata, SAS, Streamlit, Bloomberg, WRDS/Compustat/CRSP, CVXPY, QuantConnect, Claude Code, GitHub Copilot, local LLMs (Ollama), GitHub Actions
+**Tool stack:** Python, Bloomberg, WRDS/Compustat/CRSP, SAS, CVXPY, QuantConnect, Claude Code, local LLMs (Ollama), GitHub Actions
 
 ## 3. What I'm building (side projects)
 
@@ -47,7 +46,6 @@ I like to *手搓* (build things myself) — I notice a gap, check whether a goo
 - **Offer or Over** (offerorover.com) — anonymous forum + recruiting-intel site for China's 2027 fall-recruiting (秋招) cohort; Chinese-English mixed audience
 - **羽伤图鉴** — cute, cartoon-style web app that shows badminton players where common injuries happen and how to prevent them (knee, Achilles, shoulder, lower back…), with a pet companion
 - **Daily US market brief** — automated research email (Python + GitHub Actions + AI summary) covering indexes, Mag 7, defense, staples, clean energy, biotech, semis, metals & commodities
-- **US equity quant backtester** (in progress) — modular Python backtesting with moving-average crossover strategies, slippage and cost modeling, and a Streamlit dashboard; meant to be reproducible and to double as a portfolio project
 - **Ideas in the pipeline:** an AI tool that auto-edits vlogs and publishes to 小红书 / WeChat / TikTok / Instagram; a tool where people describe their typical day and AI shows where it can help them
 - **WeChat Official Account (公众号)** — personal essays on life and current events, written by hand
 
