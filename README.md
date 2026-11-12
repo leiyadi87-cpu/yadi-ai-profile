@@ -17,6 +17,7 @@ Every AI app keeps its own memory, locked inside that app. Switch tools and you 
 | `THINKING.md` | The deep version — how I think, my decision rules, my workflow with AI (Chinese) |
 | `prompts/load-into-new-ai.md` | First message to send a new AI (Grok, ChatGPT, Gemini…) |
 | `prompts/export-from-any-ai.md` | Pull what another AI already knows about me |
+| `prompts/ask-another-ai-to-update.md` | Ask another AI to propose additions on top of the current profile (change list only) |
 | `prompts/update-profile.md` | Keep the profile fresh after conversations |
 | `updates/` | Inbox for proposed changes before they're merged |
 | `CHANGELOG.md` | What changed and when |
